@@ -206,6 +206,28 @@ h6 {
   margin-top: 60px;
 }
 
+
+/*Start Our Approach Section*/
+#ourApproach {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  background: url("../img/OurApproach-BG.png") center top no-repeat;
+  background-size: cover;
+}
+/*End Our Approach Section*/
+
+/* Start How To Deliver Section*/
+#deliver {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  background: url("../img/deliver-BG.jpg") center top no-repeat;
+  background-size: cover;
+}
+/*End How To Deliver*/
+
+
 /*--------------------------------------------------------------
 # Intro Section
 --------------------------------------------------------------*/

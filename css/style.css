@@ -503,9 +503,10 @@ h6 {
   padding: 180px 0;
   /* margin-bottom: 100px; */
   /* bottom: 100px; */
-  background-image: url(../img/bg02.png);
+  background-color: #f8e70c;
+  /*background-image: url(../img/about0web.png);
   background-size: 100%;
-  background-repeat: no-repeat; 
+  background-repeat: no-repeat; */
 
 }
 
